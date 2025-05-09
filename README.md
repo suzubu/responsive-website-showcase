@@ -19,13 +19,10 @@ Brainwave is a dynamic, animated site demonstrating generative AI features acros
 # 1. Clone the repo
 git clone https://github.com/suzubu/responsive-website-showcase.git
 
-# 2. Navigate into the project folder
-cd brainwave
-
-# 3. Install dependencies
+# 2. Install dependencies
 npm install
 
-# 4. Run the app
+# 3. Start dev server
 npm run dev
 ```
 
