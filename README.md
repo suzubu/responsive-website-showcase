@@ -105,4 +105,4 @@ MIT — feel free to fork and build your own!
 
 ## 🙋‍♀️ Author
 
-Made with ☕ + 🎧 by [Suzubu](https://github.com/suzubu)
+Made with ☕ + 🎧 by [suzubu](https://github.com/suzubu)
