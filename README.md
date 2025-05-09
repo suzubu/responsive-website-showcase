@@ -17,7 +17,7 @@ Brainwave is a dynamic, animated site demonstrating generative AI features acros
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourname/brainwave.git
+git clone https://github.com/suzubu/responsive-website-showcase.git
 
 # 2. Navigate into the project folder
 cd brainwave
@@ -105,4 +105,4 @@ MIT — feel free to fork and build your own!
 
 ## 🙋‍♀️ Author
 
-Made with ☕ + 🎧 by [Suzy Dev](https://github.com/suzydev)
+Made with ☕ + 🎧 by [Suzy Dev](https://github.com/suzubu)
